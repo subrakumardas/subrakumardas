@@ -1,8 +1,7 @@
 ### Hello 👋, I'm Subra, a Support Engineer from India.
 My passion for automation & data lies with dreaming up ideas and making them come true.
 
-briefcase any freelance work? do reach, email :)
-speech_balloon ask me about anything, i am happy to help;
+Any freelance work? do reach, subrakumardas@gmail.com :)
 
 <!--
 **subrakumardas/subrakumardas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
